@@ -25,7 +25,7 @@
 <br />
 <br />
 
-### Cloud Experience:
+### Cloud Providers:
 
 [<img align="left" alt="Azure" width="52px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />][azure]
 
