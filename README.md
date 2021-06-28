@@ -1,4 +1,4 @@
-### Hi there, I'm Dhanya :wave:
+### Hi there, I'm Dhanya 👋
 
 ## I am an Infrastructure Engineer, Student and Crocheter.
 - I am currently learning DevOps tools to improve my skillset.
@@ -34,7 +34,7 @@
 
 ### Connect ith me:
 
-[<img align="left" alt="dhanyasreekumar | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/aimple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Linkedin" width="52px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 
 <br />
 <br />
