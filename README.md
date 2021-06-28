@@ -32,7 +32,7 @@
 <br />
 <br />
 
-### Connect ith me:
+### Connect with me:
 
 [<img align="left" alt="Linkedin" width="52px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 
