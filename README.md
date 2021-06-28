@@ -1,6 +1,6 @@
 ### Hi there, I'm Dhanya 👋
 
-## I am an Infrastructure Engineer, Student and Crocheter.
+## I am an Engineer, Student and Crocheter.
 - I am currently learning DevOps tools to improve my skillset.
 - I document everything I learn on my blog.
 - My homelab projects can be found here on my GitHub.
